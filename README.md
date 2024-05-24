@@ -97,4 +97,10 @@ Program error: Illegal move!
 ## Setup
 Clone the repository and load the Haskell file in your preferred Haskell environment. Ensure you have the necessary Haskell setup to run and test the functions.
 
-Enjoy your chess games with TheChessWizard brought to you by Mr Haskell the functional!
+## Contributing
+Feel free to fork the repository and submit pull requests. Contributions are welcome!
+
+## Contact
+For any questions or suggestions, please contact me at @*georgeelswefy@gmail.com*
+
+Enjoy your chess games with TheChessWizard brought to you by Mr Haskell the functional! **Happy coding! 🚀**
