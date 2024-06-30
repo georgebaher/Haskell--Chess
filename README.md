@@ -1,5 +1,5 @@
-# TheChessWizard
-TheChessWizard is a fun and interactive Haskell-based chess engine designed for playing and experimenting with chess moves. This project allows you to initialize and visualize a chess board, validate legal moves for pieces, suggest possible moves, and execute moves (if legal) on the board and visualize the board's new state.
+# The Chess Wizard
+The Chess Wizard is a fun and interactive Haskell-based chess engine designed for playing and experimenting with chess moves. This project allows you to initialize and visualize a chess board, validate legal moves for pieces, suggest possible moves, and execute moves (if legal) on the board and visualize the board's new state.
 
 ## Features
 **Visualize Board:** Display the current state of the board with pieces represented by their initials and suffixed with 'W' or 'B' for White and Black respectively.\
