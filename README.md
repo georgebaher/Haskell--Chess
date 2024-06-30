@@ -103,4 +103,4 @@ Feel free to fork the repository and submit pull requests. Contributions are wel
 ## Contact
 For any questions or suggestions, please contact me at @*georgeelswefy@gmail.com*
 
-Enjoy your chess games with TheChessWizard brought to you by Mr Haskell the functional! **Happy coding! 🚀**
+Enjoy your chess games with The Chess Wizard brought to you by Mr Haskell the functional! **Happy coding! 🚀**
